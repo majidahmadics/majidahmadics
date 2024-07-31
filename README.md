@@ -25,9 +25,14 @@ I am a Computer Engineering student at Politecnico di Torino, passionate about m
 
 ## Experience
 
+- **Data Scientist Intern**, Snappfood  (May 2022 - Aug 2022)
+  - Utilized Python and machine learning models to optimize and gain insights from marketing data.
+  - Improved customer segmentation strategies, resulting in an increase in marketing campaign efficiency.
+  - Employed data visualization tools to present findings to the marketing team.
+
 - **Graduate Research Assistant**, Tehran University (2018 - 2022)
   - Worked on a master's thesis titled "Predicting Stock Prices Using Machine Learning: A Comparative Study of Traditional and Advanced Techniques."
-  - Conducted research in finance and machine learning, leading to innovative trading techniques and publications.
+  - Conducted research in finance and machine learning, leading to innovative trading techniques.
 
 - **Part-Time Teacher (Physics and Mathematics)**, Isfahan University of Technology High School (2014 - 2017)
   - Taught and mentored students in physics and mathematics, preparing them for national and international competitions.
@@ -35,10 +40,17 @@ I am a Computer Engineering student at Politecnico di Torino, passionate about m
 ## Skills
 
 - **Programming Languages:** Python, SQL, Shell Scripting
-- **Libraries/Frameworks:** Pandas, Scikit-Learn, TensorFlow, Keras, NumPy, Matplotlib, Seaborn
-- **Tools/Platforms:** Data Structures and Algorithms, Object-Oriented Programming (OOP)
+- **Libraries/Frameworks:** OpenCV, Google MediaPipe, Pandas, Scikit-Learn, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Yfinance, Streamlit, Prophet
+- **Tools/Platforms:** VSCode, Google Colab, Jupyter Notebook, Jira
+- **Other Skills:** Data Structures and Algorithms, Object-Oriented Programming (OOP)
 
 ## Projects
+
+### [Handtracking Module](https://github.com/majidahmadics/HandTrackingModule)
+OpenCV, Google Mediapipe
+
+Developed and implemented a handtracking module using OpenCV and Google Mediapipe.
+Pushed the project to GitHub, providing a tool for real-time hand gesture recognition.
 
 ### [Machine Learning Projects](https://github.com/majidahmadics/Machine-Learning-Projects)
 A collection of projects demonstrating various machine learning techniques and applications, including data preprocessing, model training, evaluation, and visualization.

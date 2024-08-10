@@ -16,13 +16,6 @@ I am a Computer Engineering student at Politecnico di Torino, passionate about m
 - **Politecnico di Torino**, Torino, Italy
   - *Bachelor of Science in Computer Engineering*, 2022 - Present
 
-- **Tehran University**, Tehran, Iran
-  - *Master of Business Administration (MBA) in Finance*, 2018 - 2021
-  - *Percentage: 96.55%*
-
-- **Isfahan University of Technology**, Esfahan, Iran
-  - *Bachelor of Science in Engineering*, 2013 - 2017
-
 ## Experience
 
 - **Data Scientist Intern**, Snappfood  (May 2022 - Aug 2022)
@@ -30,18 +23,11 @@ I am a Computer Engineering student at Politecnico di Torino, passionate about m
   - Improved customer segmentation strategies, resulting in an increase in marketing campaign efficiency.
   - Employed data visualization tools to present findings to the marketing team.
 
-- **Graduate Research Assistant**, Tehran University (2018 - 2022)
-  - Worked on a master's thesis titled "Predicting Stock Prices Using Machine Learning: A Comparative Study of Traditional and Advanced Techniques."
-  - Conducted research in finance and machine learning, leading to innovative trading techniques.
-
-- **Part-Time Teacher (Physics and Mathematics)**, Isfahan University of Technology High School (2014 - 2017)
-  - Taught and mentored students in physics and mathematics, preparing them for national and international competitions.
-
 ## Skills
 
 - **Programming Languages:** Python, SQL, Shell Scripting
 - **Libraries/Frameworks:** OpenCV, Google MediaPipe, Pandas, Scikit-Learn, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Yfinance, Streamlit, Prophet
-- **Tools/Platforms:** VSCode, Google Colab, Jupyter Notebook, Jira
+- **Tools/Platforms:** VSCode, Google Colab, Jupyter Notebook, Jira, GIt
 - **Other Skills:** Data Structures and Algorithms, Object-Oriented Programming (OOP)
 
 ## Projects
@@ -51,6 +37,12 @@ OpenCV, Google Mediapipe
 
 Developed and implemented a handtracking module using OpenCV and Google Mediapipe.
 Pushed the project to GitHub, providing a tool for real-time hand gesture recognition.
+
+### [Currency Convertor Trend Detection](https://github.com/majidahmadics/trend_detection)
+Python, Streamlit
+
+- Implemented a trend detection system using Python and Simple Moving Average, focusing on identifying significant trends in time series data. 
+- This tool aids in decision-making by providing actionable insights based on detected patterns.
 
 ### [Machine Learning Projects](https://github.com/majidahmadics/Machine-Learning-Projects)
 A collection of projects demonstrating various machine learning techniques and applications, including data preprocessing, model training, evaluation, and visualization.

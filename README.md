@@ -11,11 +11,6 @@
 
 I am a Computer Engineering student at Politecnico di Torino, passionate about machine learning, data science, and finance. I have a strong background in Python, SQL, and machine learning libraries like Scikit-Learn and TensorFlow. My experience ranges from academic research to practical teaching and project development.
 
-## Education
-
-- **Politecnico di Torino**, Torino, Italy
-  - *Bachelor of Science in Computer Engineering*, 2022 - Present
-
 ## Experience
 
 - **Data Scientist Intern**, Snappfood  (May 2022 - Aug 2022)
@@ -25,10 +20,9 @@ I am a Computer Engineering student at Politecnico di Torino, passionate about m
 
 ## Skills
 
-- **Programming Languages:** Python, SQL, Shell Scripting
+- **Programming Languages:** Python, Bash
 - **Libraries/Frameworks:** OpenCV, Google MediaPipe, Pandas, Scikit-Learn, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Yfinance, Streamlit, Prophet
 - **Tools/Platforms:** VSCode, Google Colab, Jupyter Notebook, Jira, GIt
-- **Other Skills:** Data Structures and Algorithms, Object-Oriented Programming (OOP)
 
 ## Projects
 
